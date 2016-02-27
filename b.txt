@@ -1,1 +1,2 @@
 u1 created b.txt
+u2 appended b.txt
