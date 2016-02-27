@@ -1,3 +1,4 @@
 u1 created a.txt
 u1 appended a.txt
 u2 appended a.txt
+u2 feature XX appended a.txt
